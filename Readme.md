@@ -3,6 +3,7 @@
 [EasyWebsiteGuide](https://github.com/CDBxinhe/EasyWebsiteGuide)是一个简单易上手的用于网址导航的网页，它基于开源框架[vue.js](https://github.com/vuejs)实现，基于`vue-cli`工具进行构建，是一个纯前端项目。它支持添加URL书签以进行快捷的网址导航，在搜索框内进行默认的百度搜索。相信这个项目可以方便你访问、收藏、管理网址。
 
 - [开源地址](https://github.com/CDBxinhe/EasyWebsiteGuide)
+- [视频介绍](https://www.bilibili.com/video/BV1Fr4y1a7DH)
 
 ## 前序准备
 
