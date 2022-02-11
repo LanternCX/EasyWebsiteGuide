@@ -4,7 +4,7 @@
 
 - [开源地址](https://github.com/CDBxinhe/EasyWebsiteGuide)
 - [视频演示](https://www.bilibili.com/video/BV1Fr4y1a7DH)
-- [开发指引](./Readme/Readme_开发指引)
+- [开发指引](./Readme/Readme_开发指引.md)
 - [使用指引](./Readme/Readme_使用指引.md)
 - [最初设计草图](./Readme/Readme_设计草图.md)
 
