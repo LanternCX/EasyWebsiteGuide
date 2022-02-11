@@ -21,4 +21,11 @@
  - 添加网页URL和设置网页书签名称以添加一个书签
  - 右键删除以该书签
 ```
+## 文件结构
 
+```
+EasyWebSteGuide/
+ ├─ EasyWebSteGuide/ (项目源文件)
+ ├─ Readme/          (自述文件附件)
+ ├─ dist/            (一个编译好可以直接运行的版本)
+ └─ Readme.md/       (自述文件)
